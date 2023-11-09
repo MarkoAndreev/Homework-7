@@ -23,7 +23,7 @@ THEN I am taken to the corresponding section of the README
 ## Photo of Website Functionality
 The following Photo shows the web application's appearance and functionality:
 
-![photo of how website looks](./assets/images/homework7img.JPG)
+![photo of how website looks](./assets/image/homework7img.JPG)
 
 
 # Explanation of what was done
